@@ -1,4 +1,4 @@
-# Deep Research Agent 🔬
+# Deep Research Lab 🔬
 
 多智能体协作的深度研究系统：输入一个研究主题，自动完成「规划→搜索→反思→写作」全流程，生成结构化研究报告。
 

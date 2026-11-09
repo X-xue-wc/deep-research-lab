@@ -14,9 +14,9 @@ from agent.state import AgentState
 from agent.tools.pdf_export import markdown_to_pdf
 import tempfile
 
-st.set_page_config(page_title="Deep Research Agent", page_icon="🔬", layout="wide")
+st.set_page_config(page_title="Deep Research Lab", page_icon="🔬", layout="wide")
 
-st.title("🔬 Deep Research Agent")
+st.title("🔬 Deep Research Lab")
 st.caption("多智能体协作的深度研究系统 | 规划→搜索→反思→写作 全自动")
 
 # 侧边栏
